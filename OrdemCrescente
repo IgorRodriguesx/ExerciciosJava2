@@ -19,14 +19,6 @@ public class ExF {
         conta = n1 < n2 < n3;
         resultado = Double.parseDouble(JOptionPane.showMessageDialog(null,"resultado em ordem crescente:  " + conta));
         
-                
-                
-                
             }
-       
-        
-        
-        
-        
 }
 
