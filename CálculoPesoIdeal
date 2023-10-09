@@ -31,19 +31,6 @@ public class ExB {
             
         }else{
             JOptionPane.showMessageDialog(null,"Peso ideal feminino:  " + conta2);
-            
-            
-            
-            
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
     }
 }
