@@ -28,7 +28,5 @@ public class ExA {
                 JOptionPane.showMessageDialog(null,"Reprovado com media:  " + media);
                 
             }
-        
-        
     }
 }
